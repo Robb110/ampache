@@ -10,7 +10,7 @@
 That's just a custom/edited version of Ampache, not regurarly updated.
 This edited version gathers cover arts of songs by ID3 metadata and saves them for each different song, and not by album like in the original version.
 
-Origianl Ampache: [Ampache]https://github.com/ampache/ampache
+Origianl Ampache: [Ampache](https://github.com/ampache/ampache)
 
 **News:**
 
